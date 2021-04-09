@@ -1,0 +1,8 @@
+server:
+  port: 8071
+ 
+okta:
+ oauth2:
+    issuer: https://dev-53864523.okta.com/oauth2/default
+    client-id : 0oajstj4bENZwmBOh5d6
+    client-secret: cqNup0xut4blReJ237KH2SIKGjKyXSxAiEkqiXOy
